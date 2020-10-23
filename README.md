@@ -13,7 +13,7 @@ The other main feature that the app was built on was the scrolling video page wh
 
 The page for the user to view their shortlisted videos was implemented as a grid which opens a scrolling video modal, similar to the video page, when a video is selected. I was responsible for gathering all of the video that user has shortlisted from the database. I was also responsible for handling the user unshortlisting a video while on the shortlist page. 
 
-![Shortlist Page] (/shortlist_page.jpg?raw=true "Shortlist Page")
+![Shortlist Page](/shortlist_page.jpg?raw=true "Shortlist Page")
 
 I was also responsible for handling the admin associated with putting the app on the Google Play Store in a closed testing capacity in addition to managing both the Google app console for the Google login feature and the Facebook app console for the Facebook login feature.
 
